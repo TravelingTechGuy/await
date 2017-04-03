@@ -1,0 +1,14 @@
+{
+  "name": "await",
+  "version": "1.0.0",
+  "description": "testing async/await",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "Guy Vider",
+  "license": "ISC",
+  "dependencies": {
+    "superagent": "^3.5.2"
+  }
+}
